@@ -127,9 +127,9 @@ spec:
         - name: repo-directory
           value: gitops-repo
         - name: user-name
-          value: "cicd.acme"
+          value: "iam-machine-user"
         - name: user-email
-          value: "cicd@acme.com"
+          value: "machine.user.bb@gmail.com"
         - name: kustomization-path
           value: gitops-repo/ace/environments/base/kustomization.yaml
         - name: branch_name
