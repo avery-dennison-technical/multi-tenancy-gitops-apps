@@ -3,7 +3,6 @@ kind: PersistentVolumeClaim
 metadata:
   name: ace-integration-server
 spec:
-  storageClassName: ibmc-file-gold-gid-2
   accessModes:
     - ReadWriteMany
   resources:
