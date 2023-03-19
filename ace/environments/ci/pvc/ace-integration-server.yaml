@@ -4,10 +4,11 @@ metadata:
   name: ace-integration-server
   namespace: ci
 spec:
+  storageClassName: ibmc-file-gold-gid
   accessModes:
     - ReadWriteMany
   resources:
     requests:
       storage: 1Gi
-  storageClassName: ibmc-file-gold-gid
+  volumeName: ace-integration-server
   volumeMode: Filesystem
