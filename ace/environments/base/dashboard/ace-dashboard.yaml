@@ -6,10 +6,10 @@ metadata:
 spec:
   license:
     accept: true
-    license: L-RJON-CJR2RX
+    license: L-APEH-CJUCNR
     use: CloudPakForIntegrationNonProduction
   useCommonServices: true
-  version: 7.2.0
+  version: 12.0
   storage:
     type: ephemeral
   replicas: 2
