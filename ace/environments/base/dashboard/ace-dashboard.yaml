@@ -6,7 +6,7 @@ metadata:
 spec:
   license:
     accept: true
-    license: L-APEH-CJUCNR
+    license: L-RJON-CJR2RX
     use: CloudPakForIntegrationNonProduction
   useCommonServices: true
   version: 7.2.0
