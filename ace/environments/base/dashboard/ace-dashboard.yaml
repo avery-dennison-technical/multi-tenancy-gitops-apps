@@ -11,4 +11,4 @@ spec:
   version: 12.0
   storage:
     type: ephemeral
-  replicas: 2
+  replicas: 1
