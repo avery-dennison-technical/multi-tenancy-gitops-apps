@@ -9,7 +9,7 @@ spec:
     license: L-APEH-CJUCNR
     use: CloudPakForIntegrationNonProduction
   useCommonServices: true
-  version: 12.0
+  version: 12.0.7.0-r4
   storage:
     type: ephemeral
   replicas: 2
